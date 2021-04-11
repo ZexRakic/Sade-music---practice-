@@ -1,0 +1,8 @@
+$color-font: rgba(241, 241, 241, 0.959);
+$small: 575px;
+
+@mixin albums() {
+  display: inline-block;
+  width: 300px;
+  height: 500px;
+}
